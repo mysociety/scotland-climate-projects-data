@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: template_data_repo
-description: Standardised template for mysociety data repositories
+title: scotland-climate-projects-data
+description: Dataset of projects in Scotland related to emissions reductions
 
-baseurl: "/template_data_repo"
+baseurl: "/scotland-climate-projects-data"
 url: "https://mysociety.github.io"
 
 collections:

@@ -1,5 +1,5 @@
 ---
-title: "Download template_data_repo"
+title: "Download scotland_climate_projects_data"
 layout: datasets/front
 ---
 

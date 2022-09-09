@@ -1,9 +1,9 @@
 services:
   app:
-    image: mysociety/template_data_repo:${TAG:-latest}
+    image: mysociety/scotland-climate-projects-data:${TAG:-latest}
     build:
       context: .
       dockerfile: Dockerfile.dev
-    working_dir: /workspaces/template_data_repo      
+    working_dir: /workspaces/scotland_climate_projects_data      
     volumes:
-      - ./:/workspaces/template_data_repo/
+      - ./:/workspaces/scotland_climate_projects_data/

@@ -1,4 +1,4 @@
-import template_data_repo
+import scotland_climate_projects_data
 
 import pytest
 
